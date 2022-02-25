@@ -1,0 +1,55 @@
+
+
+/* font-side- design-start */
+    
+#container img {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+#container h1 {
+    color: orangered;
+}
+button {
+    /* margin: 8px; */
+    position: relative;
+    top: 70px;
+    left: -104px;
+    background: orangered;
+    border-radius: 4px;
+    font-size: 20px;
+    color: lightyellow;
+    padding: 5px;
+    cursor: pointer;
+}
+
+/* font-side- design-end */
+
+
+/* back-side-design-start */
+
+
+#welcome {
+    display: none;
+}
+#welcome h1 {
+    color: rgba(5, 44, 94, 0.705);
+}
+a {
+    text-decoration: none;
+    color: white;
+    background: rgba(5, 44, 94, 0.705);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 40px;
+    cursor: pointer;
+    
+}
+#taka img {
+    height: 200px;
+    width: auto;
+    border: 3px dotted darkred;
+    margin: 20px;
+}
+
+/* back-side-design-end */
